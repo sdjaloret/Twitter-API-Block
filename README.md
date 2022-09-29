@@ -1,2 +1,2 @@
 # Twitter-API-Block
-Drupal Modules
+Drupal Modules with proxy settings
